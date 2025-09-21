@@ -45,7 +45,7 @@ sudo make install
 sudo apt update
 sudo apt install iverilog
 ```
-
+![proof](https://github.com/JANADINI/RISC-V-TAPEOUT/blob/main/Week-0/iverilog.png)
 ---
 
 ###   GTKWave : 

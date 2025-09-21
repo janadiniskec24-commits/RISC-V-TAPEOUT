@@ -57,6 +57,7 @@ sudo apt install gtkwave
 ![proof](https://github.com/JANADINI/RISC-V-TAPEOUT/blob/main/Week-0/gtkwave.png)
 ---
 ### GTKWave Installation Proof :
-![proof](
+![proof](https://github.com/JANADINI/RISC-V-TAPEOUT/blob/main/Week-0/gtkwave%20installation%20proof.png)
+---
 
 

@@ -18,6 +18,8 @@ A 20-week hands-on program by VSD & IIT Gandhinagar, guiding you through the com
 
 Gain the skills to design, implement, and fabricate a RISC-V SoC at a national foundry, supporting India’s Semiconductor Mission.
 
+[Oracle VirtualBox Link](https://www.vlsisystemdesign.com/soc-labs/)
+
 ###   Yosys :
 
 ```bash

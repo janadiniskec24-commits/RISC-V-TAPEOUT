@@ -31,7 +31,7 @@ Gain the skills to design, implement, and fabricate a RISC-V SoC at a national f
 | DE         | GNOME 42.9             |
 | Kernel     | Linux 6.8.0-83-generic |
 | Resolution | 1366×691               |
-|Packages    | ~1800                  |
+|Packages    | 1801 (dpkg) + 9 (snap) |
 
 ![proof](https://github.com/JANADINI/RISC-V-TAPEOUT/blob/main/Week-0/neofetch.png)
 

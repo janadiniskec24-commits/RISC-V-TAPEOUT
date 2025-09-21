@@ -25,7 +25,7 @@ Gain the skills to design, implement, and fabricate a RISC-V SoC at a national f
 | Components | Details                |
 | -----------| -----------------------| 
 | OS         | Ubuntu 22.04.5 LTS     | 
-| CPU        | Intel i3-1115G4        |
+| CPU        | Intel i3-1115G4 (2 cores / 4 threads @ 3.0 GHz)      |
 | RAM        |6 GB                    |
 | GPU        | VMware SVGA II         |
 | DE         | GNOME 42.9             |

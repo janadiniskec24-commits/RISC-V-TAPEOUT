@@ -1,6 +1,6 @@
 ###  RISC-V-Tapeout-Program :
 
-A 20-week hands-on program by VSD & IIT Gandhinagar, guiding you through the complete RISC-V SoC tapeout cycle using Synopsys tools and SCL 180nm PDK.
+A 20-week hands-on program by VSD & IIT Gandhinagar, guiding through the complete RISC-V SoC tapeout cycle using Synopsys tools and SCL 180nm PDK.
 
 ###  Highlights :
 

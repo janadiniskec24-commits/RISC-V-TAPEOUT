@@ -33,6 +33,7 @@ Gain the skills to design, implement, and fabricate a RISC-V SoC at a national f
 | Resolution | 1366×691               |
 |Packages    | 1801 (dpkg) + 9 (snap) |
 
+
 ![proof](https://github.com/JANADINI/RISC-V-TAPEOUT/blob/main/Week-0/neofetch.png)
 
 ###   Yosys :

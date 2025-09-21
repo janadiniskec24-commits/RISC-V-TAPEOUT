@@ -1,6 +1,24 @@
+###  RISC-V-Tapeout-Program :
 
+A 20-week hands-on program by VSD & IIT Gandhinagar, guiding you through the complete RISC-V SoC tapeout cycle using Synopsys tools and SCL 180nm PDK.
 
-### 🔹 Yosys
+###  Highlights :
+
+1. RTL Design & Functional Validation
+
+2. Custom IP Integration
+
+3. Full-Chip Gate-Level Simulation
+
+4. Physical Design & Timing Closure
+
+5. Signoff → Tapeout → Post-Silicon Validation
+
+###  Outcome :
+
+Gain the skills to design, implement, and fabricate a RISC-V SoC at a national foundry, supporting India’s Semiconductor Mission.
+
+###   Yosys :
 
 ```bash
 sudo apt update
@@ -12,13 +30,13 @@ sudo apt install git make build-essential clang bison flex \
 git clone --recurse-submodules https://github.com/YosysHQ/yosys.git
 cd yosys
 make config-clang        
-make -j$(nproc)          
+make          
 sudo make install
 ```
 
 ---
 
-### 🔹 Icarus Verilog (iVerilog) 
+###   Icarus Verilog (iVerilog) :
 
 ```bash
 sudo apt update
@@ -27,7 +45,7 @@ sudo apt install iverilog
 
 ---
 
-### 🔹 GTKWave 
+###   GTKWave : 
 
 ```bash
 sudo apt update

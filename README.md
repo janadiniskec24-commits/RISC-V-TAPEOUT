@@ -20,6 +20,9 @@ Gain the skills to design, implement, and fabricate a RISC-V SoC at a national f
 
 [Oracle VirtualBox Link](https://www.vlsisystemdesign.com/soc-labs/)
 
+### System Information :
+![proof](https://github.com/JANADINI/RISC-V-TAPEOUT/blob/main/Week-0/neofetch.png)
+
 ###   Yosys :
 
 ```bash

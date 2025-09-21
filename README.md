@@ -21,6 +21,18 @@ Gain the skills to design, implement, and fabricate a RISC-V SoC at a national f
 [Oracle VirtualBox Link](https://www.vlsisystemdesign.com/soc-labs/)
 
 ### System Information :
+
+| Components | Details                |
+| -----------| -----------------------| 
+| OS         | Ubuntu 22.04.5 LTS     | 
+| CPU        | Intel i3-1115G4        |
+| RAM        |6 GB                    |
+| GPU        | VMware SVGA II         |
+| DE         | GNOME 42.9             |
+| Kernel     | Linux 6.8.0-83-generic |
+| Resolution | 1366×691               |
+|Packages    | ~1800                  |
+
 ![proof](https://github.com/JANADINI/RISC-V-TAPEOUT/blob/main/Week-0/neofetch.png)
 
 ###   Yosys :
